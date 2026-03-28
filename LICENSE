@@ -1,0 +1,65 @@
+Copyright (c) 2026 Kingsuk Majumdar
+Department of Electrical Engineering
+Dr. B. C. Roy Engineering College (Autonomous)
+Durgapur 713206, West Bengal, India
+
+All rights reserved.
+
+This repository contains simulation output data (figures, CSV files,
+and summary reports) associated with the following research paper:
+
+    K. Majumdar, "Acoustic Binary Image Transmission Using FSK and
+    BPSK Modulation with RLE Compression and Hamming Error Correction:
+    A Simulation Study," IEEE CIACON 2026, Durgapur, India, July 2026.
+
+PERMITTED USES
+
+1. You may view and download the data files in this repository for
+   personal academic study and reference.
+
+2. You may cite the above paper and reference this repository in your
+   own academic publications, provided proper attribution is given.
+
+3. You may use the numerical data (CSV files) for the sole purpose of
+   verifying or comparing results published in the above paper, with
+   full attribution.
+
+RESTRICTIONS
+
+1. Redistribution of any file in this repository, in original or
+   modified form, is not permitted without the prior written consent
+   of the copyright holder.
+
+2. The simulation output data, figures, and any derived works may not
+   be used for commercial purposes of any kind.
+
+3. The data may not be incorporated into any other dataset, product,
+   or publication without explicit written permission from the
+   copyright holder.
+
+4. The source code used to generate these results is not included in
+   this repository and remains the exclusive intellectual property of
+   the copyright holder. Reverse engineering or reconstruction of the
+   source code from the provided output data is not permitted.
+
+5. This repository may not be forked for redistribution purposes.
+   Forking for private academic review is permitted provided the above
+   restrictions are respected.
+
+DISCLAIMER
+
+The data in this repository is provided "as is" without warranty of
+any kind, express or implied. The copyright holder accepts no
+liability for any errors in the data or for any consequences arising
+from its use.
+
+CONTACT
+
+For permissions, collaborations, or queries, contact:
+
+    Kingsuk Majumdar, Ph.D. (Engg.)
+    Assistant Professor, Department of Electrical Engineering
+    Dr. B. C. Roy Engineering College (Autonomous)
+    Durgapur 713206, West Bengal, India
+    GitHub : https://github.com/KingsukMajumdar
+    ORCID  : https://orcid.org/0000-0001-7224-4862

@@ -1,0 +1,38 @@
+Acoustic Image Transmission -- Simulation Summary
+=======================================================
+Author        : Kingsuk Majumdar
+Date          : 2026-03-23
+Image size    : 16x16 px
+Total bits    : 256
+SNR range     : -5 to 20 dB
+Hamming ECC   : Enabled
+RLE           : Enabled
+RLE CR (CB)   : 0.1180
+RLE CR (ST)   : 3.5556
+Tx time (ST)  : 630 ms (stripes, 126 coded bits @ 5ms/bit)
+Tx time (raw) : 2240 ms (uncompressed, 448 coded bits)
+RLE CR (ST)   : 3.5556
+Tx time (ST)  : 630 ms (stripes, 126 coded bits @ 5ms/bit)
+Tx time (raw) : 2240 ms (uncompressed, 448 coded bits)
+Run time      : 1.6 s
+
+Output files:
+  Fig1_BER_SNR_AWGN.png
+  Fig2_BER_SNR_Multipath.png
+  Fig3_ECC_Comparison.png
+  Fig4_Image_Quality_SNR.png
+  Fig5_RLE_Compression.png
+  Fig6_Image_Mosaic.png
+  Fig_Combined_BER_Comparison.png
+  exp1_ber_snr_awgn.csv
+  exp2_ber_snr_multipath.csv
+  exp3_ecc_comparison.csv
+  exp4_image_quality.csv
+  exp5_rle_compression.csv
+  simulation_summary.txt
+  test_bcrec_logo_mock.png
+  test_checkerboard.png
+  test_comparison_10err.png
+  test_gradient.png
+  test_image_original.png
+  test_stripes.png

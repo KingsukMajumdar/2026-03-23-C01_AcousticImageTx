@@ -142,15 +142,7 @@ The data covers two image resolution stages:
 > *ECC Threshold Stability Property*. The system does not require
 > SNR re-optimisation as image resolution increases.
 
----
 
-## Related Work
-
-This simulation work is the first stage of a two-phase research project.
-The second phase involves hardware validation on a **Raspberry Pi Pico**
-microcontroller using PWM-based audio output and ADC-based reception,
-with extension to grayscale images and metaheuristic optimisation of
-system parameters using the Grey Wolf Optimiser.
 
 ---
 

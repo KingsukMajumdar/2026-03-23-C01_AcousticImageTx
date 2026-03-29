@@ -17,14 +17,14 @@
 >
 > K. Majumdar, *"Acoustic Binary Image Transmission Using FSK and BPSK
 > Modulation with Adaptive RLE Compression and Hamming Error Correction:
-> A Simulation Study,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.
+> A Simulation Study,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.[Submitted paper ID: 865]
 
 ---
 
 ## About This Repository
 
 This repository contains the simulation output data associated with the
-paper submitted to **IEEE CIACON 2026** (2nd International Conference on
+paper (__Paper ID: 865__) submitted to **IEEE CIACON 2026** (2nd International Conference on
 Computing, Intelligence, and Applications), organised by the Department
 of Computer Science and Engineering, Dr. B. C. Roy Engineering College,
 Durgapur, with technical sponsorship by IEEE Kolkata Section.

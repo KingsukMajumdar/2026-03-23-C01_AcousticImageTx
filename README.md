@@ -23,7 +23,7 @@
 
 ## About This Repository
 
-This repository contains the simulation output data associated with the
+This repository contains [GitHub Link](https://github.com/KingsukMajumdar/2026-03-23-C01_AcousticImageTx/blob/main/README.md) the simulation output data associated with the
 paper (__Paper ID: 865__) submitted to **IEEE CIACON 2026** (2nd International Conference on
 Computing, Intelligence, and Applications), organised by the Department
 of Computer Science and Engineering, Dr. B. C. Roy Engineering College,

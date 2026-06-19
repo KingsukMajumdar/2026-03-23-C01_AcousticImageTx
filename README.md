@@ -15,9 +15,9 @@
 > [!IMPORTANT]
 > If you use this data in your research, please cite:
 >
-> K. Majumdar, *"Acoustic Binary Image Transmission Using FSK and BPSK
-> Modulation with Adaptive RLE Compression and Hamming Error Correction:
-> A Simulation Study,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.[Submitted paper ID: 865]
+> K. Majumdar, *"Acoustic Binary Image Transmission with Adaptive RLE
+	Compression and Hamming Error Correction: System
+	Design and Performance Analysis,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.[Submitted paper ID: 865]
 
 ---
 

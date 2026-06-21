@@ -1,5 +1,5 @@
 # Acoustic Binary Image Transmission -- Simulation Data
-### IEEE CIACON 2026 | Dr. B. C. Roy Engineering College, Durgapur
+### IEEE CIACON 2026 | Paper ID: 865 |Dr. B. C. Roy Engineering College, Durgapur
 
 ---
 

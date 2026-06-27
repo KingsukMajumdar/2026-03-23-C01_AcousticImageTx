@@ -17,7 +17,7 @@
 >
 > K. Majumdar, *"Acoustic Binary Image Transmission with Adaptive RLE
 	Compression and Hamming Error Correction: System
-	Design and Performance Analysis,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.[Submitted paper ID: 865]
+	Design and Performance Analysis,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.[Accepted]
 
 ---
 

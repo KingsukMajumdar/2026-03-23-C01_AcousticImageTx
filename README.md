@@ -15,9 +15,7 @@
 > [!IMPORTANT]
 > If you use this data in your research, please cite:
 >
-> K. Majumdar, *"Acoustic Binary Image Transmission with Adaptive RLE
-	Compression and Hamming Error Correction: System
-	Design and Performance Analysis,"* **IEEE CIACON 2026**, Durgapur, India, July 2026.[Accepted]
+> K. Majumdar, S. Sarkar, T. H. Mondal, P. Khanra, T. Mondal and S. Roy, “Acoustic Binary Image Transmission with Adaptive RLE Compression and Hamming Error Correction: System Design and Performance Analysis,” *2026 International Conference on Computing, Intelligence, and Applications (CIACON)*, Durgapur, India, 2026, pp. 1–6. [doi:10.1109/CIACON70148.2026.11688539](https://doi.org/10.1109/CIACON70148.2026.11688539). [IEEE Xplore](https://ieeexplore.ieee.org/document/11688539)
 
 ---
 
